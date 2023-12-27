@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repository
 <br>
-author - rohit patel
+author - rohit patel bhavna
